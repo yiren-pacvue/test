@@ -1,3 +1,60 @@
 abcdes
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+stored unencrypted
+
+obsolete,
+
+WARN[0000] /home/yiren/source_helium10/app/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion
+permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Head "http://%2Fvar%2Frun%2Fdocker.sock/_ping": dial unix /var/run/docker.sock: connect: permission denied
+
+
+
+Platform: Linux.
+Trying to login to AWS ECR to use base image ...
+WARNING! Your password will be stored unencrypted in /home/yiren/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credential-stores
+
+Login Succeeded
+WARN[0000] /home/yiren/source_helium10/app/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion
+permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Head "http://%2Fvar%2Frun%2Fdocker.sock/_ping": dial unix /var/run/docker.sock: connect: permission denied
+
+
+failed to solve: clickhouse/clickhouse-server:23.4: failed to resolve source metadata for docker.io/clickhouse/clickhouse-server:23.4: failed to do request: Head "https://registry-1.docker.io/v2/clickhouse/clickhouse-server/manifests/23.4": net/http: TLS handshake timeout
+
+failed to resolve source metadata for
+
+load metadata for docker.io/clickhouse/clickhouse-server:23.4
+
+failed precondition
+
+failed to solve: clickhouse/clickhouse-server:23.4: failed to resolve source metadata for docker.io/clickhouse/clickhouse-server:23.4: failed commit on ref "unknown-sha256:2816c97fb51833adcfa566286c477916c03c0c28354e8bb5db3f1f43c7ecd79c": unexpected commit digest sha256:70668fd7abeb0d3db4e3bec3928306ce39dc993417b57801eab7f7bbdb597bc9, expected sha256:2816c97fb51833adcfa566286c477916c03c0c28354e8bb5db3f1f43c7ecd79c: failed precondition
+
+
+
+"https://hub.uuuadc.top/",
+"https://hdocker.1panel.live",
+"https://hhub.rat.dev",
+"https://docker.anyhub.us.kg",
+"https://docker.chenby.cn",
+"https://dockerhub.jobcher.com/",
+"https://dockerhub.icu",
+"https://docker.ckyl.me",
+"https://docker.awsl9527.cn",
+"https://docker.hpcloud.cloud",
+"https://atomhub.openatom.cn",
+"https://docker.m.daocloud.io"
+
+
+Is it necessary to let QA to test this kind of small task on CI before merging into production?
+
+You can just drop a screenshot to
+
+This message shows that your installation appears to be working correctly.
+
+yiren adm cdrom sudo dip plugdev lpadmin lxd sambashare
+
+comitted 1
+
+now ,will commit 2
